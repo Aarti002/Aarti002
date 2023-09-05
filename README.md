@@ -1,6 +1,6 @@
 ### Hello People 👋
 
-<h5>Myself Aarti, I'm a Good Human, Hardworker, Lifetime Learner, Software Engineer, Open Source Contributor, Technical Blog writer, and Ukulele Player 🎸</h5>
+<h5>Myself <a href="https://aarti002singh.netlify.app/">Aarti</a>, I'm a Good Human, Hardworker, Lifetime Learner, Software Engineer, Open Source Contributor, Technical Blog writer, and Ukulele Player 🎸</h5>
 
 ![](https://github.com/Aarti002/Aarti002/blob/main/profile.gif)
 
