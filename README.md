@@ -1,8 +1,8 @@
 ### Hello People 👋
 
 <h5>Myself <a href="https://aarti002singh.netlify.app/">Aarti</a>, I'm a Good Human, Hardworker, Lifetime Learner, Software Engineer, Open Source Contributor, Technical Blog writer, and Ukulele Player 🎸</h5>
+<img align="right" width="100" height="100" src="https://github.com/Aarti002/Aarti002/blob/main/profile.gif">
 
-![](https://github.com/Aarti002/Aarti002/blob/main/profile.gif)
 
 In a nutshell, <br/><br/>
 🖥️ I'm a <a href="https://leetcode.com/pro001/">competitive programmer</a> turned into a full-stack web developer. <br/><br/>
