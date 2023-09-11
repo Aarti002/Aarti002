@@ -1,7 +1,7 @@
 ### Hello People 👋
 
 <h5>Myself <a href="https://aarti002singh.netlify.app/">Aarti</a>, I'm a Good Human, Hardworker, Lifetime Learner, Software Engineer, Open Source Contributor, Technical Blog writer, and Ukulele Player 🎸</h5>
-<img align="right" width="1000" height="1000" src="https://github.com/Aarti002/Aarti002/blob/main/profile.gif">
+<img align="right" width="700" height="500" src="https://github.com/Aarti002/Aarti002/blob/main/profile.gif">
 
 
 In a nutshell, <br/><br/>
