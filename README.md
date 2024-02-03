@@ -7,5 +7,5 @@
 In a nutshell, <br/><br/>
 🖥️ I'm a full-stack web developer but more inclined towards the backend<br/><br/>
 🌱 exploring and learning something new everyday<br/><br/>
-📃 blog writing is a new trend, and learning that too, please check out my medium profile you might end up reading something interesting <a href="https://medium.com/@aartikumarisingh3002"> <br/><br/>
+📃 blog writing is a new trend, and learning that too, please check out my <a href="https://medium.com/@aartikumarisingh3002">medium profile</a> you might end up reading something interesting  <br/><br/>
 
